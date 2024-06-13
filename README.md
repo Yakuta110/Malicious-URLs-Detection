@@ -33,12 +33,6 @@ To replicate the results or use the trained model for prediction, follow these s
 3. Run the provided Python scripts to preprocess the data, train the models, and analyze the results.
 4. Use the trained Random Forest model for classifying new raw URLs by calling the `get_prediction_from_url(url)` function.
 
-## Directory Structure
-
-- `data`: Contains the dataset file (`malicious_phish.csv`) and any additional data files used in the project.
-- `scripts`: Contains Python scripts for data preprocessing, model training, and analysis.
-- `models`: Contains the trained machine learning models serialized in pickle format.
-- `README.md`: This file providing an overview of the project and instructions for usage.
 
 ## Conclusion
 
